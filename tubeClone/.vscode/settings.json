@@ -1,0 +1,6 @@
+{
+  "editor.stickyTabStops": false,
+"editor.tabSize": 5,
+"editor.insertSpaces": true,
+"workbench.tree.indent": 8
+}
